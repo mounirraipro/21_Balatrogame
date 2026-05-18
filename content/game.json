@@ -6,22 +6,40 @@
   "iframeUrl": "/game/index.html",
   "embedUrl": "https://html5.gamemonetize.co/v6qpevlp4d7jt4uhznzfg5g8a4ugerl1/",
   "embedSource": "GameMonetize - Card Quest: Solitaire",
-
   "seo": {
     "title": "Balatro Game – Free Strategy Card Game Online",
     "description": "Play Balatro Game free in your browser — a deep poker-inspired roguelike strategy game. Build your deck, beat the blinds, and win. No download needed.",
-    "keywords": ["Balatro game", "Balatro online", "free strategy card game browser", "poker roguelike online", "online card strategy game free", "play Balatro no download", "deck-building browser game"]
+    "keywords": [
+      "Balatro game",
+      "Balatro online",
+      "free strategy card game browser",
+      "poker roguelike online",
+      "online card strategy game free",
+      "play Balatro no download",
+      "deck-building browser game"
+    ]
   },
-
   "homepage": {
     "heroHeadline": "Balatro Game — Free Card Strategy Online",
     "heroSubtitle": "Build a winning poker hand, stack Jokers, and beat every blind. Deep deck-building strategy, free in your browser.",
     "lede": "Balatro Game is a free browser strategy game that combines poker hand mechanics with roguelike deck-building. Collect Jokers, craft synergies, and push your score through escalating blinds — all without a download or account.",
     "stats": [
-      { "value": "150+", "label": "Unique Joker Cards" },
-      { "value": "8",    "label": "Playable Decks" },
-      { "value": "0",    "label": "Downloads Needed" },
-      { "value": "100%", "label": "Free Forever" }
+      {
+        "value": "150+",
+        "label": "Unique Joker Cards"
+      },
+      {
+        "value": "8",
+        "label": "Playable Decks"
+      },
+      {
+        "value": "0",
+        "label": "Downloads Needed"
+      },
+      {
+        "value": "100%",
+        "label": "Free Forever"
+      }
     ],
     "about": {
       "kicker": "What is Balatro Game?",
@@ -34,81 +52,229 @@
       "subheading": "Learn the basics in minutes, spend hours mastering the synergies."
     },
     "steps": [
-      { "icon": "folder",       "title": "Choose Your Deck", "desc": "Select one of eight starting decks, each with a distinct advantage — extra Joker slots, bonus chips, or a modified card distribution. Your deck choice shapes the entire run." },
-      { "icon": "eye",          "title": "Assess the Blind", "desc": "Each stage presents a chip target you must beat. Small Blind, Big Blind, and Boss Blind all demand progressively higher scores. Some Boss Blinds impose special rules — plan around them." },
-      { "icon": "refresh",      "title": "Play Your Hand", "desc": "Select two to five cards from your eight-card hand and play them as a poker hand. Chips are calculated from the hand rank, then Jokers and multipliers fire in order. Discard and redraw up to four times per round." },
-      { "icon": "puzzle",       "title": "Visit the Shop", "desc": "Between rounds, spend gold at the shop. Buy Jokers to boost scoring, Planet cards to level up specific hand types, Tarot cards for one-time effects, or Vouchers for permanent upgrades." },
-      { "icon": "check-circle", "title": "Scale and Win", "desc": "Survive eight antes to complete the run. Balance offensive Jokers that inflate multipliers against defensive picks that stabilise your chip floor. Every run teaches you something new." }
+      {
+        "icon": "folder",
+        "title": "Choose Your Deck",
+        "desc": "Select one of eight starting decks, each with a distinct advantage — extra Joker slots, bonus chips, or a modified card distribution. Your deck choice shapes the entire run."
+      },
+      {
+        "icon": "eye",
+        "title": "Assess the Blind",
+        "desc": "Each stage presents a chip target you must beat. Small Blind, Big Blind, and Boss Blind all demand progressively higher scores. Some Boss Blinds impose special rules — plan around them."
+      },
+      {
+        "icon": "refresh",
+        "title": "Play Your Hand",
+        "desc": "Select two to five cards from your eight-card hand and play them as a poker hand. Chips are calculated from the hand rank, then Jokers and multipliers fire in order. Discard and redraw up to four times per round."
+      },
+      {
+        "icon": "puzzle",
+        "title": "Visit the Shop",
+        "desc": "Between rounds, spend gold at the shop. Buy Jokers to boost scoring, Planet cards to level up specific hand types, Tarot cards for one-time effects, or Vouchers for permanent upgrades."
+      },
+      {
+        "icon": "check-circle",
+        "title": "Scale and Win",
+        "desc": "Survive eight antes to complete the run. Balance offensive Jokers that inflate multipliers against defensive picks that stabilise your chip floor. Every run teaches you something new."
+      }
     ],
     "categories": [
-      { "name": "Beginner",        "icon": "star",   "color": "#10b981", "bg": "#d1fae5", "img": "/level-thumbs/category-1.webp" },
-      { "name": "Strategist",      "icon": "target", "color": "#3b82f6", "bg": "#dbeafe", "img": "/level-thumbs/category-2.webp" },
-      { "name": "Synergy Builder", "icon": "zap",    "color": "#f59e0b", "bg": "#fef3c7", "img": "/level-thumbs/category-3.webp" },
-      { "name": "Expert",          "icon": "trophy", "color": "#8b5cf6", "bg": "#ede9fe", "img": "/level-thumbs/category-4.webp" },
-      { "name": "Gold Stake",      "icon": "crown",  "color": "#ef4444", "bg": "#fee2e2", "img": "/level-thumbs/category-5.webp" }
+      {
+        "name": "Beginner",
+        "icon": "star",
+        "color": "#10b981",
+        "bg": "#d1fae5",
+        "img": "/level-thumbs/category-1.webp"
+      },
+      {
+        "name": "Strategist",
+        "icon": "target",
+        "color": "#3b82f6",
+        "bg": "#dbeafe",
+        "img": "/level-thumbs/category-2.webp"
+      },
+      {
+        "name": "Synergy Builder",
+        "icon": "zap",
+        "color": "#f59e0b",
+        "bg": "#fef3c7",
+        "img": "/level-thumbs/category-3.webp"
+      },
+      {
+        "name": "Expert",
+        "icon": "trophy",
+        "color": "#8b5cf6",
+        "bg": "#ede9fe",
+        "img": "/level-thumbs/category-4.webp"
+      },
+      {
+        "name": "Gold Stake",
+        "icon": "crown",
+        "color": "#ef4444",
+        "bg": "#fee2e2",
+        "img": "/level-thumbs/category-5.webp"
+      }
     ],
     "features": [
-      { "icon": "bolt",   "title": "Instant Start", "desc": "No install and no account. Open the Play page and your first run begins in seconds — the full game is available right in the browser." },
-      { "icon": "target", "title": "Deep Synergy System", "desc": "Over 150 unique Joker cards interact with hand types, suits, ranks, and each other. No two runs play out the same way." },
-      { "icon": "device", "title": "Plays on Any Device", "desc": "Balatro Game runs smoothly on desktop and modern mobile browsers. Touch controls are supported, so you can play on the go." },
-      { "icon": "image",  "title": "Distinctive Visual Style", "desc": "A retro-inspired card aesthetic with vivid colour grading makes every hand satisfying to look at. Animations fire cleanly and never obscure the score." },
-      { "icon": "shield", "title": "Safe Browser Play", "desc": "No ads targeting children and no in-app purchases. The game is fully playable without spending anything beyond your time." },
-      { "icon": "music",  "title": "Atmospheric Soundtrack", "desc": "A lo-fi electronic score keeps the tension building through long runs without becoming distracting. Toggle sound or music independently." }
+      {
+        "icon": "bolt",
+        "title": "Instant Start",
+        "desc": "No install and no account. Open the Play page and your first run begins in seconds — the full game is available right in the browser."
+      },
+      {
+        "icon": "target",
+        "title": "Deep Synergy System",
+        "desc": "Over 150 unique Joker cards interact with hand types, suits, ranks, and each other. No two runs play out the same way."
+      },
+      {
+        "icon": "device",
+        "title": "Plays on Any Device",
+        "desc": "Balatro Game runs smoothly on desktop and modern mobile browsers. Touch controls are supported, so you can play on the go."
+      },
+      {
+        "icon": "image",
+        "title": "Distinctive Visual Style",
+        "desc": "A retro-inspired card aesthetic with vivid colour grading makes every hand satisfying to look at. Animations fire cleanly and never obscure the score."
+      },
+      {
+        "icon": "shield",
+        "title": "Safe Browser Play",
+        "desc": "No ads targeting children and no in-app purchases. The game is fully playable without spending anything beyond your time."
+      },
+      {
+        "icon": "music",
+        "title": "Atmospheric Soundtrack",
+        "desc": "A lo-fi electronic score keeps the tension building through long runs without becoming distracting. Toggle sound or music independently."
+      }
     ],
     "faq": [
-      { "q": "What is Balatro Game?", "a": "Balatro Game is a poker-inspired roguelike strategy game played in the browser. You build a collection of Joker cards and play poker hands to beat escalating score targets across eight antes." },
-      { "q": "Is Balatro Game free?", "a": "Yes. Balatro Game is completely free to play in your browser — no payment, subscription, or in-app purchases required." },
-      { "q": "Does Balatro Game work on mobile?", "a": "Balatro Game runs on most modern mobile browsers with touch support. For the best experience, use an up-to-date version of Chrome or Safari on your device." },
-      { "q": "How many levels are there?", "a": "Each run consists of eight antes, with three blinds per ante — Small, Big, and Boss. Completing all eight antes wins the run. Multiple difficulty stakes extend replayability significantly." },
-      { "q": "Is Balatro Game safe for kids?", "a": "The game contains no violent content or ads targeting children. It does use playing card and poker imagery, so parental judgement on age-appropriateness is recommended for younger players." },
-      { "q": "Do I need an account?", "a": "No account is required. Open the game, choose your deck, and start your first run immediately." }
+      {
+        "q": "What is Balatro Game?",
+        "a": "Balatro Game is a poker-inspired roguelike strategy game played in the browser. You build a collection of Joker cards and play poker hands to beat escalating score targets across eight antes."
+      },
+      {
+        "q": "Is Balatro Game free?",
+        "a": "Yes. Balatro Game is completely free to play in your browser — no payment, subscription, or in-app purchases required."
+      },
+      {
+        "q": "Does Balatro Game work on mobile?",
+        "a": "Balatro Game runs on most modern mobile browsers with touch support. For the best experience, use an up-to-date version of Chrome or Safari on your device."
+      },
+      {
+        "q": "How many levels are there?",
+        "a": "Each run consists of eight antes, with three blinds per ante — Small, Big, and Boss. Completing all eight antes wins the run. Multiple difficulty stakes extend replayability significantly."
+      },
+      {
+        "q": "Is Balatro Game safe for kids?",
+        "a": "The game contains no violent content or ads targeting children. It does use playing card and poker imagery, so parental judgement on age-appropriateness is recommended for younger players."
+      },
+      {
+        "q": "Do I need an account?",
+        "a": "No account is required. Open the game, choose your deck, and start your first run immediately."
+      }
     ],
     "cta": {
       "headline": "Ready to Build the Perfect Run?",
       "subtext": "Choose your deck and start stacking Jokers — no download, no account needed."
     }
   },
-
   "playPage": {
     "howItWorksSubtitle": "Master poker hands, collect Jokers, and beat every blind — all in your browser.",
     "steps": [
-      { "title": "Pick Your Deck and Start", "desc": "Choose one of eight decks, each offering a different strategic advantage. Your deck determines your starting hand size, special card modifications, and opening chip count." },
-      { "title": "Play Hands, Beat Blinds", "desc": "Select cards from your hand to form the highest-scoring poker combination. Jokers fire after the hand score is calculated, multiplying or adding to the total. Beat the chip target to advance." },
-      { "title": "Shop, Upgrade, Repeat", "desc": "Between blinds, buy Jokers, Planet cards, and Vouchers to strengthen your run. Sell underperforming Jokers to fund better picks. Build toward a clear synergy rather than collecting at random." }
+      {
+        "title": "Pick Your Deck and Start",
+        "desc": "Choose one of eight decks, each offering a different strategic advantage. Your deck determines your starting hand size, special card modifications, and opening chip count."
+      },
+      {
+        "title": "Play Hands, Beat Blinds",
+        "desc": "Select cards from your hand to form the highest-scoring poker combination. Jokers fire after the hand score is calculated, multiplying or adding to the total. Beat the chip target to advance."
+      },
+      {
+        "title": "Shop, Upgrade, Repeat",
+        "desc": "Between blinds, buy Jokers, Planet cards, and Vouchers to strengthen your run. Sell underperforming Jokers to fund better picks. Build toward a clear synergy rather than collecting at random."
+      }
     ]
   },
-
   "faqPage": {
     "items": [
-      { "q": "Is Balatro Game really free?", "a": "Yes. There are no hidden costs. Balatro Game is entirely free to play in the browser with no in-app purchases or premium tiers." },
-      { "q": "What devices can I play on?", "a": "Balatro Game works on desktop computers (Windows, Mac, Linux) and modern smartphones and tablets. Any device running an up-to-date browser can access the full game." },
-      { "q": "How does the game work?", "a": "Each run you play poker hands — pairs, flushes, straights, full houses — to accumulate chips and beat a score target called a blind. After clearing each blind you visit a shop to buy Joker cards that permanently modify how your hands score. The goal is to survive eight antes by building increasingly powerful scoring combinations." },
-      { "q": "How many levels are there?", "a": "A standard run covers eight antes, each containing a Small Blind, Big Blind, and Boss Blind — 24 encounters in total. Beating all eight antes completes the run. Higher difficulty stakes and special challenge runs extend the content significantly." },
-      { "q": "Can I play offline?", "a": "Balatro Game requires an internet connection to load in the browser. Once loaded, most sessions run without interruption, but a stable connection at launch is needed." },
-      { "q": "Is my progress saved?", "a": "Run progress is saved automatically within a session. If you close the browser mid-run, the current run state should be recoverable when you return to the same browser, though this depends on the device and browser settings." },
-      { "q": "Is Balatro Game safe for children?", "a": "The game contains no violent content or ads aimed at children. It uses poker terminology and card imagery. Parents should assess suitability based on their child's age and familiarity with card game concepts." },
-      { "q": "Do I need to create an account?", "a": "No account is needed. The game starts immediately with no registration required." }
+      {
+        "q": "Is Balatro Game really free?",
+        "a": "Yes. There are no hidden costs. Balatro Game is entirely free to play in the browser with no in-app purchases or premium tiers."
+      },
+      {
+        "q": "What devices can I play on?",
+        "a": "Balatro Game works on desktop computers (Windows, Mac, Linux) and modern smartphones and tablets. Any device running an up-to-date browser can access the full game."
+      },
+      {
+        "q": "How does the game work?",
+        "a": "Each run you play poker hands — pairs, flushes, straights, full houses — to accumulate chips and beat a score target called a blind. After clearing each blind you visit a shop to buy Joker cards that permanently modify how your hands score. The goal is to survive eight antes by building increasingly powerful scoring combinations."
+      },
+      {
+        "q": "How many levels are there?",
+        "a": "A standard run covers eight antes, each containing a Small Blind, Big Blind, and Boss Blind — 24 encounters in total. Beating all eight antes completes the run. Higher difficulty stakes and special challenge runs extend the content significantly."
+      },
+      {
+        "q": "Can I play offline?",
+        "a": "Balatro Game requires an internet connection to load in the browser. Once loaded, most sessions run without interruption, but a stable connection at launch is needed."
+      },
+      {
+        "q": "Is my progress saved?",
+        "a": "Run progress is saved automatically within a session. If you close the browser mid-run, the current run state should be recoverable when you return to the same browser, though this depends on the device and browser settings."
+      },
+      {
+        "q": "Is Balatro Game safe for children?",
+        "a": "The game contains no violent content or ads aimed at children. It uses poker terminology and card imagery. Parents should assess suitability based on their child's age and familiarity with card game concepts."
+      },
+      {
+        "q": "Do I need to create an account?",
+        "a": "No account is needed. The game starts immediately with no registration required."
+      }
     ]
   },
-
   "howToPlayPage": {
     "intro": "Balatro Game blends poker hand scoring with roguelike deck-building. You play poker hands to beat chip targets, then build a collection of Joker cards that transform how those hands score. The deeper you go, the more powerful your combinations need to become.",
     "steps": [
-      { "title": "Understand the Scoring Loop", "desc": "Every hand has a base chip value and a base multiplier. A Pair scores 10 chips x 2 multiplier by default. Joker cards add to or multiply these numbers. High-level Planet cards increase the base stats of specific hand types. The goal is to get these numbers large enough to beat the blind target, which grows steeply with each ante." },
-      { "title": "Prioritise Synergies Over Individual Cards", "desc": "The strongest runs focus on one or two primary hand types and stack every available Joker and Planet upgrade around them. A flush-based deck with three flush Jokers and several Planet cards upgrading Flush will outperform a generalist approach every time. Identify your synergy early and shop toward it deliberately." },
-      { "title": "Manage Gold for Maximum Impact", "desc": "Spending every gold the moment you earn it leaves nothing for interest. Aim to hold at least five gold by the end of each round to earn the maximum interest bonus. This compounds over a full run into several extra shop purchases — often the difference between a winning and losing run." }
+      {
+        "title": "Understand the Scoring Loop",
+        "desc": "Every hand has a base chip value and a base multiplier. A Pair scores 10 chips x 2 multiplier by default. Joker cards add to or multiply these numbers. High-level Planet cards increase the base stats of specific hand types. The goal is to get these numbers large enough to beat the blind target, which grows steeply with each ante."
+      },
+      {
+        "title": "Prioritise Synergies Over Individual Cards",
+        "desc": "The strongest runs focus on one or two primary hand types and stack every available Joker and Planet upgrade around them. A flush-based deck with three flush Jokers and several Planet cards upgrading Flush will outperform a generalist approach every time. Identify your synergy early and shop toward it deliberately."
+      },
+      {
+        "title": "Manage Gold for Maximum Impact",
+        "desc": "Spending every gold the moment you earn it leaves nothing for interest. Aim to hold at least five gold by the end of each round to earn the maximum interest bonus. This compounds over a full run into several extra shop purchases — often the difference between a winning and losing run."
+      }
     ],
-    "mechanic": { "title": "The Joker System", "desc": "Jokers are the core of Balatro's progression. Each Joker card has a unique effect — some add flat chips, others multiply your final score, and many trigger only when specific conditions are met such as when the hand contains a face card, when you play a flush, or when the hand has exactly four cards. Understanding which Jokers combine well is what separates a winning run from an early defeat." },
+    "mechanic": {
+      "title": "The Joker System",
+      "desc": "Jokers are the core of Balatro's progression. Each Joker card has a unique effect — some add flat chips, others multiply your final score, and many trigger only when specific conditions are met such as when the hand contains a face card, when you play a flush, or when the hand has exactly four cards. Understanding which Jokers combine well is what separates a winning run from an early defeat."
+    },
     "difficultyProgression": "Early antes are forgiving — even a basic strategy clears them. From Ante 4 onwards, Boss Blinds begin imposing special restrictions: debuffing face cards, forcing you to play blind with cards face-down, or reducing your hand size. By Ante 7 and 8, the chip targets require a fully developed synergy to beat. Difficulty ramps predictably, so you have time to build before the pressure peaks.",
     "tips": [
-      { "title": "Learn the Boss Blinds", "desc": "Each Boss Blind has a unique modifier that can wreck an unprepared run. Some force you to play exactly one card per hand. Others halve your chips and multiplier. Knowing what's coming lets you adapt your hand selection or hold extra cards in reserve before facing it." },
-      { "title": "Don't Skip Tarot Cards", "desc": "Tarot cards offer one-time powerful effects — enhancing specific cards in your deck, converting suits, or adding bonus chips. The right Tarot at the right moment can fix a struggling run or turbocharge a working synergy. They're cheap and often overlooked by new players." },
-      { "title": "Reroll the Shop Strategically", "desc": "Rerolling costs one gold and refreshes the Joker offerings. Save rerolls for moments when your run has a clear direction and the current shop offers nothing useful. Rerolling early when your strategy is still undefined wastes resources better spent on the interest cycle." },
-      { "title": "Track Your Hand Levels", "desc": "The information panel shows how many times each hand type has been levelled by Planet cards. Knowing your Full House's current chip and multiplier values tells you whether it's worth playing over a different hand. Treat levelled hands as reliable anchors and Jokers as the amplifiers on top." },
-      { "title": "Secure an Early Economy", "desc": "Spending every gold the moment you earn it leaves nothing for interest. Aim to hold at least five gold by the end of each round to earn the maximum interest bonus. This compounds over a full run into several extra shop purchases — often the difference between a winning and losing run." }
+      {
+        "title": "Learn the Boss Blinds",
+        "desc": "Each Boss Blind has a unique modifier that can wreck an unprepared run. Some force you to play exactly one card per hand. Others halve your chips and multiplier. Knowing what's coming lets you adapt your hand selection or hold extra cards in reserve before facing it."
+      },
+      {
+        "title": "Don't Skip Tarot Cards",
+        "desc": "Tarot cards offer one-time powerful effects — enhancing specific cards in your deck, converting suits, or adding bonus chips. The right Tarot at the right moment can fix a struggling run or turbocharge a working synergy. They're cheap and often overlooked by new players."
+      },
+      {
+        "title": "Reroll the Shop Strategically",
+        "desc": "Rerolling costs one gold and refreshes the Joker offerings. Save rerolls for moments when your run has a clear direction and the current shop offers nothing useful. Rerolling early when your strategy is still undefined wastes resources better spent on the interest cycle."
+      },
+      {
+        "title": "Track Your Hand Levels",
+        "desc": "The information panel shows how many times each hand type has been levelled by Planet cards. Knowing your Full House's current chip and multiplier values tells you whether it's worth playing over a different hand. Treat levelled hands as reliable anchors and Jokers as the amplifiers on top."
+      },
+      {
+        "title": "Secure an Early Economy",
+        "desc": "Spending every gold the moment you earn it leaves nothing for interest. Aim to hold at least five gold by the end of each round to earn the maximum interest bonus. This compounds over a full run into several extra shop purchases — often the difference between a winning and losing run."
+      }
     ]
   },
-
   "blog": {
     "headline": "Guides &amp; Strategy",
     "subheading": "Everything you need to master Balatro Game — from your first run to high-stake victories.",
@@ -123,10 +289,33 @@
         "date": "2026-01-01",
         "icon": "🗺️",
         "sections": [
-          { "heading": "What Is Balatro Game?", "paragraphs": ["Balatro Game is a poker-based roguelike strategy game played entirely in the browser. You start each run with a standard 52-card deck and a set of Joker slots. Your job is to play poker hands — pairs, straights, flushes — to accumulate chips and beat a score target at each stage. Between stages, you visit a shop and buy cards that permanently change how your hands score.", "The game is not about gambling. The poker element is purely a scoring mechanic. There is no wagering, no currency at risk, and the outcome is entirely determined by the cards you collect and the strategy you build. It rewards planning and pattern recognition far more than luck."] },
-          { "heading": "How to Open the Game", "paragraphs": ["Navigate to the Play page and the game loads directly in your browser. No account, no download, and no sign-in required. Choose your starting deck from the selection screen — for your first run, the Red Deck or Blue Deck are both solid choices. The Red Deck gives you extra discards; the Blue Deck gives an extra hand per round. Both are forgiving for beginners.", "The game runs in any modern browser on desktop or mobile. If the game does not load, try refreshing the page or switching to Chrome or Firefox."] },
-          { "heading": "Your First Five Minutes", "paragraphs": ["The first blind you face — Small Blind of Ante 1 — has a low chip target. You can often beat it by playing your three strongest hands from the default deck without any Jokers. Focus on playing full houses, straights, or flushes if your dealt cards allow. Pairs and high cards will struggle later, so get into the habit of identifying the strongest combination available.", "After clearing the Small Blind, you visit the shop. Buy one Joker that sounds useful — anything that adds multiplier or chips to a common hand type works well at this stage. Do not overspend: hold at least five gold to earn interest at the end of the round. That extra income compounds across the whole run."] },
-          { "heading": "Ready to Play?", "paragraphs": ["Balatro Game is one of those rare strategy games where every run teaches you something new. If you fail, you will usually understand why — a Joker combination that did not work, a Boss Blind you were not ready for. Each failure is feedback. Jump in, experiment with different decks, and do not be discouraged by early losses. The learning curve is steep but satisfying."] }
+          {
+            "heading": "What Is Balatro Game?",
+            "paragraphs": [
+              "Balatro Game is a poker-based roguelike strategy game played entirely in the browser. You start each run with a standard 52-card deck and a set of Joker slots. Your job is to play poker hands — pairs, straights, flushes — to accumulate chips and beat a score target at each stage. Between stages, you visit a shop and buy cards that permanently change how your hands score.",
+              "The game is not about gambling. The poker element is purely a scoring mechanic. There is no wagering, no currency at risk, and the outcome is entirely determined by the cards you collect and the strategy you build. It rewards planning and pattern recognition far more than luck."
+            ]
+          },
+          {
+            "heading": "How to Open the Game",
+            "paragraphs": [
+              "Navigate to the Play page and the game loads directly in your browser. No account, no download, and no sign-in required. Choose your starting deck from the selection screen — for your first run, the Red Deck or Blue Deck are both solid choices. The Red Deck gives you extra discards; the Blue Deck gives an extra hand per round. Both are forgiving for beginners.",
+              "The game runs in any modern browser on desktop or mobile. If the game does not load, try refreshing the page or switching to Chrome or Firefox."
+            ]
+          },
+          {
+            "heading": "Your First Five Minutes",
+            "paragraphs": [
+              "The first blind you face — Small Blind of Ante 1 — has a low chip target. You can often beat it by playing your three strongest hands from the default deck without any Jokers. Focus on playing full houses, straights, or flushes if your dealt cards allow. Pairs and high cards will struggle later, so get into the habit of identifying the strongest combination available.",
+              "After clearing the Small Blind, you visit the shop. Buy one Joker that sounds useful — anything that adds multiplier or chips to a common hand type works well at this stage. Do not overspend: hold at least five gold to earn interest at the end of the round. That extra income compounds across the whole run."
+            ]
+          },
+          {
+            "heading": "Ready to Play?",
+            "paragraphs": [
+              "Balatro Game is one of those rare strategy games where every run teaches you something new. If you fail, you will usually understand why — a Joker combination that did not work, a Boss Blind you were not ready for. Each failure is feedback. Jump in, experiment with different decks, and do not be discouraged by early losses. The learning curve is steep but satisfying."
+            ]
+          }
         ]
       },
       {
@@ -138,10 +327,34 @@
         "date": "2026-01-05",
         "icon": "💡",
         "sections": [
-          { "heading": "Master the Fundamentals", "paragraphs": ["The scoring formula never changes: chips x multiplier equals your final score. Jokers that add to multiplier are almost always more valuable than Jokers that add chips, because multiplier scales everything. A Joker that gives +4 multiplier is typically worth more than a Joker that gives +40 chips, especially once your chip base is above 200.", "Know your hand rankings by rarity of scoring. Flush Five and Five of a Kind score enormous base values but require specific deck conditions. Royal Flush scores highly but is difficult to hit reliably. Flushes and Straights are the workhorses of most runs — they hit often enough to plan around."] },
-          { "heading": "Think Before You Act", "paragraphs": ["Before playing a hand, check the blind target and your remaining hands and discards. If you are already ahead of the target with two hands left, consider whether playing a weaker hand to preserve a strong discard set-up is smarter than wasting your best combination early. Score management matters more than raw power in the mid-game.", "Check which Jokers are currently active. Some Jokers only score when specific conditions are met — such as when the hand contains no face cards or when the played hand is exactly two cards. These conditional Jokers require you to deliberately structure your hand selection, not just play the strongest poker hand available."] },
-          { "heading": "Recognise Patterns Early", "paragraphs": ["By the end of Ante 2, you should have a clear strategy emerging. If your Jokers favour flushes, start culling off-suit cards from your deck using Tarot cards. If your Jokers favour face cards, prioritise decks and Planet upgrades that strengthen high-card and pair hands. A focused deck outperforms a diverse one at every stage from Ante 4 onwards.", "Watch the shop inventory across multiple rounds. If flush Jokers keep appearing, that's a signal. If you see repeated Planet cards upgrading the same hand type, the game is nudging you toward a viable synergy. The shop is not purely random — adapt your strategy when the offerings align."] },
-          { "heading": "Advanced Techniques", "paragraphs": ["Vouchers grant permanent upgrades that persist for the rest of the run. The Overstock Voucher adds an extra card slot to the shop — this is almost always worth buying when it appears because it increases your long-term options significantly. Hone and Reroll Surplus become vital in high-stakes runs where a bad shop offering can stall progress.", "In later antes, consider intentionally losing the Small Blind to preserve your best scoring hands for the Boss Blind. Skipping a blind costs you a Tag reward such as a free Joker or a shop discount, but the preservation of a pristine hand structure for the Boss Blind can be worth the trade. This is a calculated risk, not a default strategy."] }
+          {
+            "heading": "Master the Fundamentals",
+            "paragraphs": [
+              "The scoring formula never changes: chips x multiplier equals your final score. Jokers that add to multiplier are almost always more valuable than Jokers that add chips, because multiplier scales everything. A Joker that gives +4 multiplier is typically worth more than a Joker that gives +40 chips, especially once your chip base is above 200.",
+              "Know your hand rankings by rarity of scoring. Flush Five and Five of a Kind score enormous base values but require specific deck conditions. Royal Flush scores highly but is difficult to hit reliably. Flushes and Straights are the workhorses of most runs — they hit often enough to plan around."
+            ]
+          },
+          {
+            "heading": "Think Before You Act",
+            "paragraphs": [
+              "Before playing a hand, check the blind target and your remaining hands and discards. If you are already ahead of the target with two hands left, consider whether playing a weaker hand to preserve a strong discard set-up is smarter than wasting your best combination early. Score management matters more than raw power in the mid-game.",
+              "Check which Jokers are currently active. Some Jokers only score when specific conditions are met — such as when the hand contains no face cards or when the played hand is exactly two cards. These conditional Jokers require you to deliberately structure your hand selection, not just play the strongest poker hand available."
+            ]
+          },
+          {
+            "heading": "Recognise Patterns Early",
+            "paragraphs": [
+              "By the end of Ante 2, you should have a clear strategy emerging. If your Jokers favour flushes, start culling off-suit cards from your deck using Tarot cards. If your Jokers favour face cards, prioritise decks and Planet upgrades that strengthen high-card and pair hands. A focused deck outperforms a diverse one at every stage from Ante 4 onwards.",
+              "Watch the shop inventory across multiple rounds. If flush Jokers keep appearing, that's a signal. If you see repeated Planet cards upgrading the same hand type, the game is nudging you toward a viable synergy. The shop is not purely random — adapt your strategy when the offerings align."
+            ]
+          },
+          {
+            "heading": "Advanced Techniques",
+            "paragraphs": [
+              "Vouchers grant permanent upgrades that persist for the rest of the run. The Overstock Voucher adds an extra card slot to the shop — this is almost always worth buying when it appears because it increases your long-term options significantly. Hone and Reroll Surplus become vital in high-stakes runs where a bad shop offering can stall progress.",
+              "In later antes, consider intentionally losing the Small Blind to preserve your best scoring hands for the Boss Blind. Skipping a blind costs you a Tag reward such as a free Joker or a shop discount, but the preservation of a pristine hand structure for the Boss Blind can be worth the trade. This is a calculated risk, not a default strategy."
+            ]
+          }
         ]
       },
       {
@@ -153,10 +366,34 @@
         "date": "2026-01-10",
         "icon": "🧠",
         "sections": [
-          { "heading": "Games and the Brain", "paragraphs": ["Cognitive science research consistently shows that games requiring planning and probabilistic thinking activate the prefrontal cortex — the part of the brain responsible for decision-making, working memory, and flexible thinking. Strategy card games sit squarely in this category. Each run of Balatro Game requires you to evaluate probability, plan ahead for Joker targets, and adapt when conditions change.", "Unlike reflex-based games, strategy card games allow extended deliberation. This slower pace benefits players who are building decision-making habits rather than reaction speed. The thinking you do between draws and shop visits is where most of the skill development happens."] },
-          { "heading": "Problem-Solving", "paragraphs": ["Every run presents a constrained optimisation problem: given a fixed set of cards and Jokers, how do you maximise score output before the blind target requires it? This structure is analogous to real-world resource allocation problems. Researchers studying game-based learning note that card strategy games improve transfer skills — the ability to apply problem-solving approaches across different domains.", "The roguelike element — where each run is randomised — adds a layer of adaptive thinking. You cannot memorise the perfect solution. Instead, you must evaluate a new set of options each time and reason toward the best available strategy. This is a more transferable cognitive skill than rote memorisation."] },
-          { "heading": "Stress Relief", "paragraphs": ["Short sessions and a forgiving early-game difficulty make Balatro Game suitable as a mental break tool. The game does not punish slow play — there are no timers and no penalty for extended deliberation. This creates a low-pressure environment where analytical engagement replaces idle screen scrolling. Many players report using short runs as a structured way to decompress between demanding tasks.", "The satisfying score animations and sound feedback when a Joker chain fires provide small positive reinforcement loops. These feedback signals are well-calibrated — present enough to be rewarding, not so intrusive as to become hollow."] },
-          { "heading": "Safe Screen Time", "paragraphs": ["Balatro Game contains no violent content, no social pressure mechanics, and no monetisation designed to encourage excessive play. There are no limited-time offers, daily login rewards, or other compulsive loop mechanics common in mobile games. Sessions are naturally bounded by run length, which creates a defined endpoint rather than an open-ended engagement loop.", "For players looking to replace aimless scrolling with structured thinking, Balatro Game offers a cognitively active alternative. It is most beneficial in short sessions of 20 to 45 minutes — long enough to develop a meaningful strategy within a run, short enough not to disrupt daily routines."] }
+          {
+            "heading": "Games and the Brain",
+            "paragraphs": [
+              "Cognitive science research consistently shows that games requiring planning and probabilistic thinking activate the prefrontal cortex — the part of the brain responsible for decision-making, working memory, and flexible thinking. Strategy card games sit squarely in this category. Each run of Balatro Game requires you to evaluate probability, plan ahead for Joker targets, and adapt when conditions change.",
+              "Unlike reflex-based games, strategy card games allow extended deliberation. This slower pace benefits players who are building decision-making habits rather than reaction speed. The thinking you do between draws and shop visits is where most of the skill development happens."
+            ]
+          },
+          {
+            "heading": "Problem-Solving",
+            "paragraphs": [
+              "Every run presents a constrained optimisation problem: given a fixed set of cards and Jokers, how do you maximise score output before the blind target requires it? This structure is analogous to real-world resource allocation problems. Researchers studying game-based learning note that card strategy games improve transfer skills — the ability to apply problem-solving approaches across different domains.",
+              "The roguelike element — where each run is randomised — adds a layer of adaptive thinking. You cannot memorise the perfect solution. Instead, you must evaluate a new set of options each time and reason toward the best available strategy. This is a more transferable cognitive skill than rote memorisation."
+            ]
+          },
+          {
+            "heading": "Stress Relief",
+            "paragraphs": [
+              "Short sessions and a forgiving early-game difficulty make Balatro Game suitable as a mental break tool. The game does not punish slow play — there are no timers and no penalty for extended deliberation. This creates a low-pressure environment where analytical engagement replaces idle screen scrolling. Many players report using short runs as a structured way to decompress between demanding tasks.",
+              "The satisfying score animations and sound feedback when a Joker chain fires provide small positive reinforcement loops. These feedback signals are well-calibrated — present enough to be rewarding, not so intrusive as to become hollow."
+            ]
+          },
+          {
+            "heading": "Safe Screen Time",
+            "paragraphs": [
+              "Balatro Game contains no violent content, no social pressure mechanics, and no monetisation designed to encourage excessive play. There are no limited-time offers, daily login rewards, or other compulsive loop mechanics common in mobile games. Sessions are naturally bounded by run length, which creates a defined endpoint rather than an open-ended engagement loop.",
+              "For players looking to replace aimless scrolling with structured thinking, Balatro Game offers a cognitively active alternative. It is most beneficial in short sessions of 20 to 45 minutes — long enough to develop a meaningful strategy within a run, short enough not to disrupt daily routines."
+            ]
+          }
         ]
       },
       {
@@ -168,10 +405,34 @@
         "date": "2026-01-15",
         "icon": "📈",
         "sections": [
-          { "heading": "Focus on Consistency", "paragraphs": ["The goal in Balatro Game is not to find spectacular Joker combinations — it's to build runs that reliably beat every blind up to Ante 8. Spectacular combos sometimes appear, but consistency comes from understanding the floor of your scoring, not just the ceiling. Ask yourself: if my best hand fails, what's my fallback scoring option? Runs without a reliable fallback tend to collapse at Boss Blinds.", "Track which antes cause you to lose most frequently. Most players lose at Antes 6 or 7 because their early choices looked good but did not scale. Identifying your consistent failure point lets you trace the decision that caused it and adjust your shopping priorities in future runs."] },
-          { "heading": "Analyse Your Mistakes", "paragraphs": ["After a failed run, trace back to the shop decisions you made in Antes 3 and 4. These middle-game choices are where most runs succeed or fail. If you bought Jokers that had no synergy with each other, or if you overspent gold and missed interest cycles, those are fixable habits. If you ran out of discards at a critical blind, consider whether your hand size or deck size contributed to the problem.", "Losing to a Boss Blind almost always indicates either insufficient score scale or lack of preparation for the blind's specific mechanic. Read each Boss Blind's description before committing your hand structure for that round. Some Boss Blinds are trivially avoided by holding a specific card type in reserve."] },
-          { "heading": "Build a Strategy", "paragraphs": ["The clearest path to improvement is narrowing your Joker focus per run. Decide by Ante 2 what your primary hand type will be — flush, straight, full house, or a high-card approach. Then shop exclusively toward that goal. Reject Jokers that do not synergise, even if they look powerful in isolation. A run with three deeply synergistic Jokers outperforms a run with six mediocre ones.", "Planet cards are undervalued by many players. Upgrading your primary hand type three or four times transforms the chip and multiplier values substantially. If you're running a flush strategy, every Planet card labelled Mercury which upgrades Flushes should be a near-automatic purchase. This compounds with Joker multipliers rather than competing with them."] },
-          { "heading": "Practice Regularly", "paragraphs": ["Balatro Game rewards accumulated pattern recognition above all else. Each Joker, each Boss Blind mechanic, and each deck interaction becomes familiar through repeated exposure. Players who attempt two or three runs per session and deliberately experiment with different deck choices improve faster than those who repeat the same strategy until it works.", "Challenge yourself with decks outside your comfort zone. If you always play the Red Deck, try the Checkered Deck or the Abandoned Deck. Different starting conditions force you to develop different strategic responses, building a broader understanding of the game's systems. This cross-strategy knowledge makes you more adaptable when a run does not provide your preferred Jokers."] }
+          {
+            "heading": "Focus on Consistency",
+            "paragraphs": [
+              "The goal in Balatro Game is not to find spectacular Joker combinations — it's to build runs that reliably beat every blind up to Ante 8. Spectacular combos sometimes appear, but consistency comes from understanding the floor of your scoring, not just the ceiling. Ask yourself: if my best hand fails, what's my fallback scoring option? Runs without a reliable fallback tend to collapse at Boss Blinds.",
+              "Track which antes cause you to lose most frequently. Most players lose at Antes 6 or 7 because their early choices looked good but did not scale. Identifying your consistent failure point lets you trace the decision that caused it and adjust your shopping priorities in future runs."
+            ]
+          },
+          {
+            "heading": "Analyse Your Mistakes",
+            "paragraphs": [
+              "After a failed run, trace back to the shop decisions you made in Antes 3 and 4. These middle-game choices are where most runs succeed or fail. If you bought Jokers that had no synergy with each other, or if you overspent gold and missed interest cycles, those are fixable habits. If you ran out of discards at a critical blind, consider whether your hand size or deck size contributed to the problem.",
+              "Losing to a Boss Blind almost always indicates either insufficient score scale or lack of preparation for the blind's specific mechanic. Read each Boss Blind's description before committing your hand structure for that round. Some Boss Blinds are trivially avoided by holding a specific card type in reserve."
+            ]
+          },
+          {
+            "heading": "Build a Strategy",
+            "paragraphs": [
+              "The clearest path to improvement is narrowing your Joker focus per run. Decide by Ante 2 what your primary hand type will be — flush, straight, full house, or a high-card approach. Then shop exclusively toward that goal. Reject Jokers that do not synergise, even if they look powerful in isolation. A run with three deeply synergistic Jokers outperforms a run with six mediocre ones.",
+              "Planet cards are undervalued by many players. Upgrading your primary hand type three or four times transforms the chip and multiplier values substantially. If you're running a flush strategy, every Planet card labelled Mercury which upgrades Flushes should be a near-automatic purchase. This compounds with Joker multipliers rather than competing with them."
+            ]
+          },
+          {
+            "heading": "Practice Regularly",
+            "paragraphs": [
+              "Balatro Game rewards accumulated pattern recognition above all else. Each Joker, each Boss Blind mechanic, and each deck interaction becomes familiar through repeated exposure. Players who attempt two or three runs per session and deliberately experiment with different deck choices improve faster than those who repeat the same strategy until it works.",
+              "Challenge yourself with decks outside your comfort zone. If you always play the Red Deck, try the Checkered Deck or the Abandoned Deck. Different starting conditions force you to develop different strategic responses, building a broader understanding of the game's systems. This cross-strategy knowledge makes you more adaptable when a run does not provide your preferred Jokers."
+            ]
+          }
         ]
       },
       {
@@ -183,10 +444,130 @@
         "date": "2026-01-20",
         "icon": "👨‍👩‍👧",
         "sections": [
-          { "heading": "Is Balatro Game Safe for Children?", "paragraphs": ["Balatro Game contains no violent content, no graphic imagery, and no social interaction features. There are no ads targeting children and no in-app purchases of any kind. The game is entirely free and plays safely within a browser environment without requiring any account creation or personal information.", "The game does use poker hand terminology — pairs, flushes, full houses — and card imagery from a standard deck. There is no wagering, no gambling mechanic, and no real or virtual currency at risk. Parents of younger children should assess whether poker concepts are age-appropriate for their specific child before allowing extended play."] },
-          { "heading": "What Will My Child Learn?", "paragraphs": ["Balatro Game develops several transferable cognitive skills. Managing gold, planning shop purchases across multiple rounds, and anticipating how early decisions affect late-game outcomes all require structured thinking. Children who engage with the game's systems practise resource management, probabilistic reasoning, and sequential planning in an applied context.", "The game rewards patience and analysis over speed. There are no timers and no reflex component. Children who tend toward careful, deliberate thinking often find it more engaging than fast-paced action games, and the repeated feedback loop of trying, failing, understanding why, and adjusting is consistent with good learning habits."] },
-          { "heading": "Tips for Healthy Screen Time", "paragraphs": ["Each run of Balatro Game has a natural endpoint — beating Ante 8 or losing. This bounded session structure makes it easier to set clear stopping points compared to games with infinite progression. Establishing a one-run limit per session gives children a fair and predictable boundary that the game itself reinforces.", "The game does not include push notifications, daily reward structures, or social pressure mechanics designed to maximise time spent. This makes it a lower-risk option for structured screen time compared to many mobile or social games designed with compulsive engagement in mind."] },
-          { "heading": "COPPA Compliance", "paragraphs": ["Balatro Game collects no personal information, requires no account, and does not serve targeted advertisements. Play is anonymous and session-based. There are no social features, leaderboards, or mechanisms to contact other players. The game is safe to play in a browser without parental credential management.", "For younger children, standard supervision of browser activity is advisable. The game itself presents no privacy risks, but general good practice around supervised internet use applies as with any browser-based game or site."] }
+          {
+            "heading": "Is Balatro Game Safe for Children?",
+            "paragraphs": [
+              "Balatro Game contains no violent content, no graphic imagery, and no social interaction features. There are no ads targeting children and no in-app purchases of any kind. The game is entirely free and plays safely within a browser environment without requiring any account creation or personal information.",
+              "The game does use poker hand terminology — pairs, flushes, full houses — and card imagery from a standard deck. There is no wagering, no gambling mechanic, and no real or virtual currency at risk. Parents of younger children should assess whether poker concepts are age-appropriate for their specific child before allowing extended play."
+            ]
+          },
+          {
+            "heading": "What Will My Child Learn?",
+            "paragraphs": [
+              "Balatro Game develops several transferable cognitive skills. Managing gold, planning shop purchases across multiple rounds, and anticipating how early decisions affect late-game outcomes all require structured thinking. Children who engage with the game's systems practise resource management, probabilistic reasoning, and sequential planning in an applied context.",
+              "The game rewards patience and analysis over speed. There are no timers and no reflex component. Children who tend toward careful, deliberate thinking often find it more engaging than fast-paced action games, and the repeated feedback loop of trying, failing, understanding why, and adjusting is consistent with good learning habits."
+            ]
+          },
+          {
+            "heading": "Tips for Healthy Screen Time",
+            "paragraphs": [
+              "Each run of Balatro Game has a natural endpoint — beating Ante 8 or losing. This bounded session structure makes it easier to set clear stopping points compared to games with infinite progression. Establishing a one-run limit per session gives children a fair and predictable boundary that the game itself reinforces.",
+              "The game does not include push notifications, daily reward structures, or social pressure mechanics designed to maximise time spent. This makes it a lower-risk option for structured screen time compared to many mobile or social games designed with compulsive engagement in mind."
+            ]
+          },
+          {
+            "heading": "COPPA Compliance",
+            "paragraphs": [
+              "Balatro Game collects no personal information, requires no account, and does not serve targeted advertisements. Play is anonymous and session-based. There are no social features, leaderboards, or mechanisms to contact other players. The game is safe to play in a browser without parental credential management.",
+              "For younger children, standard supervision of browser activity is advisable. The game itself presents no privacy risks, but general good practice around supervised internet use applies as with any browser-based game or site."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "balatro-strategy-economy-guide",
+        "title": "Balatro Game Strategy Guide: How to Build Better Runs With Smarter Economy",
+        "excerpt": "A practical Balatro Game guide to hand planning, risk control, upgrades, scoring rhythm, and smarter long-term decisions.",
+        "category": "Strategy",
+        "readTime": "12 min read",
+        "date": "2026-05-17",
+        "icon": "spade",
+        "sections": [
+          {
+            "heading": "Start Every Run With a Plan",
+            "paragraphs": [
+              "Balatro Game rewards players who think about the whole run instead of only the next hand. The first few rounds look forgiving, but they establish the habits that carry or break a later score. Before choosing an upgrade, selling a card, or pushing for a risky hand, ask what kind of scoring engine you are building. A run with no direction becomes a pile of small decisions that never support each other.",
+              "A useful plan does not need to be complicated. Decide whether the run wants reliable pairs, stronger flushes, repeated multipliers, or a small set of high-value cards. Once you know the direction, every shop choice becomes easier. You can ignore tempting options that do not fit and protect your money for upgrades that make the chosen line stronger."
+            ]
+          },
+          {
+            "heading": "Understand the Difference Between Score and Stability",
+            "paragraphs": [
+              "A huge score on one hand feels good, but stability wins more runs. A stable setup produces enough points even when the draw is ordinary. This matters because card games always include variance. If your strategy only works when the perfect cards appear in the right order, it will fail when the game asks for consistency. Build around hands you can make often, then add power on top.",
+              "Watch how many turns you need to reach the required score. If every round depends on the final hand, the deck is too fragile. Improve the base line before chasing flashy bonuses. Strong runs usually clear early rounds with room to spare, not because every hand is enormous, but because most hands are good enough. That margin protects you from bad draws."
+            ]
+          },
+          {
+            "heading": "Treat Money as Future Power",
+            "paragraphs": [
+              "Money is not just a number at the bottom of the screen. It is future choice. Spending every coin as soon as possible removes your ability to respond to a better shop, a stronger upgrade, or a problem that appears later. Good economy play means buying what clearly improves the current plan and passing on items that only feel interesting.",
+              "The hardest purchases to skip are the almost-good ones. They seem useful, but they do not change the run enough to justify the cost. If an option does not improve your main scoring path, your consistency, or your ability to survive the next blind, keep the money. A saved coin often becomes the difference between taking a perfect upgrade later and watching it pass by."
+            ]
+          },
+          {
+            "heading": "Build Around Repeatable Hands",
+            "paragraphs": [
+              "Repeatability is the quiet skill behind strong card strategy. A hand type that scores well once but rarely appears cannot carry a full run. Look for patterns your deck naturally supports. If the deck gives you many connected ranks, straights become more realistic. If suits cluster, flushes become stronger. If pairs appear often, pair-based scaling becomes a safe base.",
+              "Do not force a hand type because it worked in a previous run. Each run gives different materials. The smart move is to read the cards in front of you and commit when the evidence is clear. Forcing a favourite strategy into the wrong deck creates constant friction. Adapting to the deck turns ordinary draws into a reliable plan."
+            ]
+          },
+          {
+            "heading": "Use Risk at the Right Time",
+            "paragraphs": [
+              "Risk has a place, but it needs timing. Early reckless choices can damage the run before it has enough tools to recover. Late cautious choices can leave the score too weak for harder blinds. The best players take risks when the reward solves a real problem. They avoid risks that only create a bigger number without improving the run structure.",
+              "A good risk has a clear upside and an acceptable failure case. If missing the draw ends the run, the risk is usually poor unless no safe path exists. If the risk costs little and teaches useful information, it becomes more reasonable. Think of risk as a resource. Spend it when the run needs a breakthrough, not when boredom asks for drama."
+            ]
+          },
+          {
+            "heading": "Know When to Thin or Shape the Deck",
+            "paragraphs": [
+              "Deck shaping is powerful because it changes what future hands look like. Removing weak cards, improving useful cards, and increasing the chance of key patterns all make the run more predictable. A smaller, cleaner deck often beats a larger deck full of random bonuses. The goal is not to own more options. The goal is to draw the right options more often.",
+              "Every deck change should support the scoring plan. If you are building around a suit, protect that suit and reduce cards that interrupt it. If you are building around ranks, keep the ranks that create pairs or connections. Random improvements feel productive, but focused improvements create the draws that win. Shape the deck like a machine, not a collection."
+            ]
+          },
+          {
+            "heading": "Read Failed Rounds Carefully",
+            "paragraphs": [
+              "A failed round gives useful information if you review it honestly. Did the score fail because the deck lacked power, because the draw was unlucky, or because you chose the wrong hand? These are different problems. Power problems need upgrades. Draw problems need deck shaping. Decision problems need slower play and better hand selection.",
+              "Do not call every loss bad luck. Luck affects card games, but repeated failure usually points to a structural issue. If the same weakness appears across several rounds, the deck is telling you what it needs. Listen to that pattern. The next shop, upgrade, or card change should answer the weakness directly instead of adding unrelated strength."
+            ]
+          },
+          {
+            "heading": "Plan Around the Next Blind, Not the Last One",
+            "paragraphs": [
+              "Many players spend after a round based on the hand that just worked. That can be misleading. The better question is what the next blind will demand. If the last round was easy, you may not need more of the same power. You may need consistency, a way to handle a restriction, or enough money saved to buy a stronger answer after the next shop.",
+              "Looking forward keeps the run from becoming emotional. A strong hand can make a weak plan feel safe, and a bad draw can make a good plan feel broken. Judge the deck by its ability to clear the next requirement with ordinary draws. If ordinary draws are enough, save money or improve structure. If ordinary draws fail, buy power that supports the main scoring path."
+            ]
+          },
+          {
+            "heading": "Separate Core Cards From Support Cards",
+            "paragraphs": [
+              "A strong deck has core cards that carry the scoring plan and support cards that help those core cards appear or score higher. Treating every card as equally important makes decisions messy. Once you know the core, upgrades and removals become clearer. Protect cards that create the hand you want, and remove cards that interrupt that hand too often.",
+              "Support cards still matter, but they should serve the main plan. A card that improves money, draw quality, or multiplier consistency can be excellent even if it does not score heavily by itself. The danger comes from collecting support effects with no core. A deck full of interesting helpers still needs a reliable way to make points when the blind asks for a real score."
+            ]
+          },
+          {
+            "heading": "Use Strong Rounds to Prepare, Not Relax",
+            "paragraphs": [
+              "Clearing a round comfortably is not a signal to stop thinking. It is a chance to prepare while the run has breathing room. Use strong rounds to improve the deck, save money, and remove small weaknesses before they become urgent. Waiting until the score requirement catches up often forces desperate purchases that do not fit the build.",
+              "The best runs feel calm because the player prepares before danger arrives. If a blind barely falls, the shop becomes a repair station. If a blind falls easily, the shop becomes a planning station. Planning stations create better long-term decisions because you can choose from strength rather than fear. That is where economy and strategy meet."
+            ]
+          },
+          {
+            "heading": "Keep the Interface and Session Clean",
+            "paragraphs": [
+              "Browser play makes the game easy to start, but clean focus still matters. Play in a comfortable window, avoid distractions, and give each shop screen enough attention. Many bad purchases happen because the player clicks quickly after a strong round and assumes the run is already safe. The strongest moments are often when discipline matters most.",
+              "Short sessions work well for strategy games because decisions stay sharp. If you feel yourself buying without thinking or playing hands automatically, pause for a moment. A run can change direction in one shop or one bad hand. Staying mentally present protects the work already invested and keeps each decision connected to the plan."
+            ]
+          },
+          {
+            "heading": "Improve With One Theme Per Run",
+            "paragraphs": [
+              "The best way to learn is to focus on one theme at a time. In one run, practise saving money. In another, practise deck thinning. In another, practise identifying your main scoring hand earlier. This makes improvement measurable. You are not just hoping to win more often; you are training a specific decision skill that will help every future run.",
+              "After each run, remember one decision that mattered. It can be a smart skip, a bad purchase, a hand you forced, or a moment where patience paid off. These small reviews build practical judgement. Over time, Balatro Game becomes less about chasing lucky draws and more about building runs that survive ordinary draws.",
+              "This approach also makes losses easier to accept. A lost run still improves your play if it teaches when to save money, when to commit, or when to abandon a weak plan. The score matters, but the decision pattern matters more. Better decisions create better scores across many sessions, especially when pressure rises."
+            ]
+          }
         ]
       }
     ]

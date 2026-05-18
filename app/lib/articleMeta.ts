@@ -310,4 +310,14 @@ export const articleMeta: Record<string, ArticleMeta> = {
         category: 'Guides',
         readTime: '7 min read',
     },
+    'balatro-strategy-economy-guide': {
+        slug: 'balatro-strategy-economy-guide',
+        title: 'Balatro Game Strategy Guide: How to Build Better Runs With Smarter Economy',
+        description: 'A practical Balatro Game guide to hand planning, risk control, upgrades, scoring rhythm, and smarter long-term decisions.',
+        datePublished: '2026-05-17',
+        dateModified: '2026-05-17',
+        keywords: ['Balatro Game strategy', 'Balatro guide', 'card strategy game', 'free browser strategy game'],
+        category: 'Strategy',
+        readTime: '12 min read',
+    },
 };
